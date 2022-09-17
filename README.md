@@ -8,7 +8,7 @@
 
 Projeto construido no evento Next Level da Rocketseat.
 
-Para ter acesso ao conteúdo, [acesse aqui](https://github.com/Gislene-Tavares/nlw-esports-explorer) 
+Para ter acesso ao conteúdo, [acesse aqui 🔗](https://gislene-tavares.github.io/nlw-esports-explorer/) 
 
 ## 💻 Tecnologias
 
